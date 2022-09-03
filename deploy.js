@@ -1,5 +1,5 @@
 async function main() {
-  // compile tthen in our code
+  // compile tthen in our code.
 }
 
 main()
